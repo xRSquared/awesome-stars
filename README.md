@@ -14,12 +14,12 @@
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Lua](#lua)
-- [Makefile](#makefile)
 - [Nix](#nix)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -53,6 +53,7 @@
 
 ## JavaScript 
 
+- [AlexxNB/svelte-docs](https://github.com/AlexxNB/svelte-docs) - A rapid way to write documentation for your Svelte components
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
@@ -65,22 +66,16 @@
 
 ## Lua 
 
+- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [whatsthatsmell/dots](https://github.com/whatsthatsmell/dots) - Code Smell Dotfiles
 - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
-- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
-- [alpha2phi/neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner) - A configuration for Neovim beginners.
 - [dtr2300/nvim](https://github.com/dtr2300/nvim) - Neovim configuration
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
-- [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js
-
-## Makefile 
-
-- [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
 
 ## Nix 
 
@@ -88,12 +83,12 @@
 
 ## Others 
 
+- [xRSquared/awesome-stars](https://github.com/xRSquared/awesome-stars) - My Awesome List built from my starred repos
 - [xRSquared/xRSquared](https://github.com/xRSquared/xRSquared) - My README.md
 - [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Transformers, a rough outline for a course.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [codeforamerica/howto](https://github.com/codeforamerica/howto) - How To Do Things
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [oh-my-fish/packages-main](https://github.com/oh-my-fish/packages-main) - Primary Oh My Fish package repository.
@@ -103,6 +98,7 @@
 
 ## Python 
 
+- [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
@@ -147,6 +143,10 @@
 - [oh-my-fish/theme-cmorrell.com](https://github.com/oh-my-fish/theme-cmorrell.com) - Theme with minimal base prompt, compact git status, and useful visual indicators for common scenarios.
 - [oh-my-fish/theme-es](https://github.com/oh-my-fish/theme-es) - Fish shell theme
 
+## Svelte 
+
+- [dimfeld/svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library
+
 ## TypeScript 
 
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
@@ -163,7 +163,6 @@
 
 ## Vim Script 
 
-- [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
 - [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 
 ## Vue 
