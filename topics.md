@@ -261,6 +261,7 @@
 
 ## machine-learning 
 
+- [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [NannyML/nannyml](https://github.com/NannyML/nannyml) - Detecting silent model failure. NannyML estimates performance for regression and classification models using tabular data. It alerts you when and why it changed. It is the only open-source library cap
 - [natolambert/dynamicslearn](https://github.com/natolambert/dynamicslearn) - Working directory for dynamics learning for experimental robots.
@@ -313,6 +314,9 @@
 
 ## others 
 
+- [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [jackmoore/autosize](https://github.com/jackmoore/autosize) - Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.
 - [xRSquared/awesome-stars](https://github.com/xRSquared/awesome-stars) - My Awesome List built from my starred repos
