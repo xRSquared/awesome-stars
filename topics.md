@@ -9,6 +9,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [api](#api)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
@@ -37,6 +38,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [iot](#iot)
+- [java](#java)
 - [javascript](#javascript)
 - [js](#js)
 - [json](#json)
@@ -53,6 +55,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [numpy](#numpy)
+- [open-source](#open-source)
 - [others](#others)
 - [postgresql](#postgresql)
 - [programming](#programming)
@@ -93,6 +96,10 @@
 
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
+
+## api 
+
+- [fern-api/fern](https://github.com/fern-api/fern) - Build APIs twice as fast ⚡
 
 ## awesome 
 
@@ -209,6 +216,7 @@
 
 ## golang 
 
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [mainflux/mainflux](https://github.com/mainflux/mainflux) - Industrial IoT Messaging and Device Management Platform
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 
@@ -228,8 +236,13 @@
 
 - [mainflux/mainflux](https://github.com/mainflux/mainflux) - Industrial IoT Messaging and Device Management Platform
 
+## java 
+
+- [fern-api/fern](https://github.com/fern-api/fern) - Build APIs twice as fast ⚡
+
 ## javascript 
 
+- [fern-api/fern](https://github.com/fern-api/fern) - Build APIs twice as fast ⚡
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -276,6 +289,7 @@
 
 ## monitoring 
 
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [NannyML/nannyml](https://github.com/NannyML/nannyml) - Detecting silent model failure. NannyML estimates performance for regression and classification models using tabular data. It alerts you when and why it changed. It is the only open-source library cap
 
 ## mysql 
@@ -311,6 +325,10 @@
 ## numpy 
 
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
+
+## open-source 
+
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 
 ## others 
 
@@ -362,6 +380,7 @@
 
 ## python 
 
+- [fern-api/fern](https://github.com/fern-api/fern) - Build APIs twice as fast ⚡
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
@@ -433,6 +452,8 @@
 
 ## typescript 
 
+- [fern-api/fern](https://github.com/fern-api/fern) - Build APIs twice as fast ⚡
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
