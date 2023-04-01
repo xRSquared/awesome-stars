@@ -18,6 +18,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
@@ -125,6 +126,10 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+## Scala 
+
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 
 ## Shell 
 
