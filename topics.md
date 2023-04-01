@@ -335,6 +335,7 @@
 
 ## others 
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
