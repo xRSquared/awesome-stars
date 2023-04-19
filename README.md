@@ -20,6 +20,7 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Starlark](#starlark)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 
@@ -123,6 +124,7 @@
 
 ## Rust 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [xRSquared/challenges](https://github.com/xRSquared/challenges) - Challenges: including fly.io distributed systems challenge
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
@@ -148,6 +150,10 @@
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [oh-my-fish/theme-cmorrell.com](https://github.com/oh-my-fish/theme-cmorrell.com) - Theme with minimal base prompt, compact git status, and useful visual indicators for common scenarios.
 - [oh-my-fish/theme-es](https://github.com/oh-my-fish/theme-es) - Fish shell theme
+
+## Starlark 
+
+- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 
 ## Svelte 
 
