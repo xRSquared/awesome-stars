@@ -361,7 +361,7 @@
 - [AlexxNB/svelte-docs](https://github.com/AlexxNB/svelte-docs) - A rapid way to write documentation for your Svelte components
 - [xRSquared/xRSquared](https://github.com/xRSquared/xRSquared) - My README.md
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Transformers, a rough outline for a course.
+- [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Transformers, a rough outline for a 9 week course.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [klen/pylama](https://github.com/klen/pylama) - Code audit tool for python.
 - [mkorpela/overrides](https://github.com/mkorpela/overrides) - A decorator to automatically detect mismatch when overriding a method
