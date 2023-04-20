@@ -87,7 +87,7 @@
 
 - [xRSquared/awesome-stars](https://github.com/xRSquared/awesome-stars) - My Awesome List built from my starred repos
 - [xRSquared/xRSquared](https://github.com/xRSquared/xRSquared) - My README.md
-- [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Transformers, a rough outline for a course.
+- [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Transformers, a rough outline for a 9 week course.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
