@@ -390,6 +390,7 @@
 
 ## others 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [bgalbraith/bandits](https://github.com/bgalbraith/bandits) - Python library for Multi-Armed Bandits
 - [fidelity/mab2rec](https://github.com/fidelity/mab2rec) - Mab2Rec: Multi-Armed Bandits Recommender
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
