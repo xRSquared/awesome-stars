@@ -390,7 +390,7 @@
 
 ## others 
 
-- [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browsless tool to help you quickly view markdown files in the blink of an eye.
+- [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [bgalbraith/bandits](https://github.com/bgalbraith/bandits) - Python library for Multi-Armed Bandits
 - [fidelity/mab2rec](https://github.com/fidelity/mab2rec) - Mab2Rec: Multi-Armed Bandits Recommender
