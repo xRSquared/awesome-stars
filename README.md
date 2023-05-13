@@ -98,7 +98,6 @@
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [xRSquared/awesome-stars](https://github.com/xRSquared/awesome-stars) - My Awesome List built from my starred repos
 - [xRSquared/xRSquared](https://github.com/xRSquared/xRSquared) - My README.md
-- [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Stable Diffusion, a rough outline for a 9 week course.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -125,6 +124,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Stable Diffusion, a rough outline for a 9 week course.
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
