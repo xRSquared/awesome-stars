@@ -178,7 +178,7 @@
 
 - [maciekgrzybek/svelte-inview](https://github.com/maciekgrzybek/svelte-inview) - A Svelte action that monitors an element enters or leaves the viewport.🔥
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
-- [fern-api/fern](https://github.com/fern-api/fern) - Build APIs twice as fast ⚡
+- [fern-api/fern](https://github.com/fern-api/fern) - Generate client SDKs in multiple languages for your API
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API
 - [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
