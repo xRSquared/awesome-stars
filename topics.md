@@ -75,6 +75,7 @@
 - [redux](#redux)
 - [rust](#rust)
 - [scikit-learn](#scikit-learn)
+- [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
 - [sql](#sql)
@@ -519,6 +520,10 @@
 
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
+
+## self-hosted 
+
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 
 ## serverless 
 
