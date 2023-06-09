@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Dart](#dart)
 - [Go](#go)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -43,6 +44,10 @@
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
+## Dart 
+
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+
 ## Go 
 
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
@@ -50,6 +55,7 @@
 
 ## JavaScript 
 
+- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [btholt/postcss-colorblind](https://github.com/btholt/postcss-colorblind) - A PostCSS plugin for seeing your site as a colorblind person may.
 - [jackmoore/autosize](https://github.com/jackmoore/autosize) - Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.
 - [AlexxNB/svelte-docs](https://github.com/AlexxNB/svelte-docs) - A rapid way to write documentation for your Svelte components
@@ -153,7 +159,6 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Scala 
 
