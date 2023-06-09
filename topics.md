@@ -43,6 +43,7 @@
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
+- [html5](#html5)
 - [icon-font](#icon-font)
 - [iot](#iot)
 - [javascript](#javascript)
@@ -280,6 +281,7 @@
 
 ## hacktoberfest 
 
+- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [maciekgrzybek/svelte-inview](https://github.com/maciekgrzybek/svelte-inview) - A Svelte action that monitors an element enters or leaves the viewport.🔥
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -293,6 +295,10 @@
 
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 
+## html5 
+
+- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
+
 ## icon-font 
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -303,6 +309,7 @@
 
 ## javascript 
 
+- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [maciekgrzybek/svelte-inview](https://github.com/maciekgrzybek/svelte-inview) - A Svelte action that monitors an element enters or leaves the viewport.🔥
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
