@@ -20,6 +20,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
 - [Starlark](#starlark)
@@ -160,6 +161,10 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+## SCSS 
+
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 
 ## Scala 
 
