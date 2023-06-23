@@ -140,7 +140,7 @@
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [klen/pylama](https://github.com/klen/pylama) - Code audit tool for python.
 - [mkorpela/overrides](https://github.com/mkorpela/overrides) - A decorator to automatically detect mismatch when overriding a method
-- [NannyML/nannyml](https://github.com/NannyML/nannyml) - Detecting silent model failure. NannyML estimates performance for regression and classification models using tabular data. It alerts you when and why it changed. It is the only open-source library cap
+- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [natolambert/dynamicslearn](https://github.com/natolambert/dynamicslearn) - Working directory for dynamics learning for experimental robots.
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
