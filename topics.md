@@ -183,7 +183,7 @@
 ## data-analysis 
 
 - [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
-- [NannyML/nannyml](https://github.com/NannyML/nannyml) - Detecting silent model failure. NannyML estimates performance for regression and classification models using tabular data. It alerts you when and why it changed. It is the only open-source library cap
+- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [jkrumbiegel/Chain.jl](https://github.com/jkrumbiegel/Chain.jl) - A Julia package for piping a value through a series of transformation expressions using a more convenient syntax than Julia's native piping functionality.
 
@@ -194,7 +194,7 @@
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [py-why/dowhy](https://github.com/py-why/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical 
-- [NannyML/nannyml](https://github.com/NannyML/nannyml) - Detecting silent model failure. NannyML estimates performance for regression and classification models using tabular data. It alerts you when and why it changed. It is the only open-source library cap
+- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python
 - [jkrumbiegel/Chain.jl](https://github.com/jkrumbiegel/Chain.jl) - A Julia package for piping a value through a series of transformation expressions using a more convenient syntax than Julia's native piping functionality.
 
 ## data-structures 
@@ -221,7 +221,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Stable Diffusion, a rough outline for a 9 week course.
-- [NannyML/nannyml](https://github.com/NannyML/nannyml) - Detecting silent model failure. NannyML estimates performance for regression and classification models using tabular data. It alerts you when and why it changed. It is the only open-source library cap
+- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python
 - [HypoX64/DeepMosaics](https://github.com/HypoX64/DeepMosaics) - Automatically remove the mosaics in images and videos, or add mosaics to them.
 
 ## deployment 
@@ -338,7 +338,7 @@
 
 ## jupyter-notebook 
 
-- [NannyML/nannyml](https://github.com/NannyML/nannyml) - Detecting silent model failure. NannyML estimates performance for regression and classification models using tabular data. It alerts you when and why it changed. It is the only open-source library cap
+- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python
 
 ## kubernetes 
 
@@ -365,7 +365,7 @@
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Semantic search and workflows powered by language models
 - [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [NannyML/nannyml](https://github.com/NannyML/nannyml) - Detecting silent model failure. NannyML estimates performance for regression and classification models using tabular data. It alerts you when and why it changed. It is the only open-source library cap
+- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python
 - [natolambert/dynamicslearn](https://github.com/natolambert/dynamicslearn) - Working directory for dynamics learning for experimental robots.
 
 ## macos 
@@ -383,7 +383,7 @@
 ## monitoring 
 
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
-- [NannyML/nannyml](https://github.com/NannyML/nannyml) - Detecting silent model failure. NannyML estimates performance for regression and classification models using tabular data. It alerts you when and why it changed. It is the only open-source library cap
+- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python
 
 ## mysql 
 
@@ -504,7 +504,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
-- [NannyML/nannyml](https://github.com/NannyML/nannyml) - Detecting silent model failure. NannyML estimates performance for regression and classification models using tabular data. It alerts you when and why it changed. It is the only open-source library cap
+- [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
