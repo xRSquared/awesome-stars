@@ -126,7 +126,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Semantic search and workflows powered by language models
-- [fern-api/fern](https://github.com/fern-api/fern) - Generate SDKs (client libraries) for your API
+- [fern-api/fern](https://github.com/fern-api/fern) - Generate SDKs and Documentation for your API
 
 ## artificial-intelligence 
 
