@@ -199,6 +199,7 @@
 
 ## TypeScript 
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [beynar/svelte-themes](https://github.com/beynar/svelte-themes) - Perfect SvelteKit dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [svelte-drama/swr](https://github.com/svelte-drama/swr) - 
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
