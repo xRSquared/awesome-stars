@@ -94,6 +94,7 @@
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [dtr2300/nvim](https://github.com/dtr2300/nvim) - Neovim configuration
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
+- [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 
 ## Nix 
 
@@ -179,7 +180,6 @@
 - [bellini666/dotfiles](https://github.com/bellini666/dotfiles) - My dotfiles
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
-- [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 - [agilesteel/.dotfiles](https://github.com/agilesteel/.dotfiles) - 
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
