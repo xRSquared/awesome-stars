@@ -69,6 +69,7 @@
 - [numpy](#numpy)
 - [open-source](#open-source)
 - [others](#others)
+- [parsing](#parsing)
 - [postgresql](#postgresql)
 - [programming](#programming)
 - [python](#python)
@@ -491,6 +492,10 @@
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 
+## parsing 
+
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+
 ## postgresql 
 
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -626,6 +631,7 @@
 
 ## typescript 
 
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
