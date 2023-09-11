@@ -45,6 +45,7 @@
 - [html](#html)
 - [html5](#html5)
 - [icon-font](#icon-font)
+- [ios](#ios)
 - [iot](#iot)
 - [javascript](#javascript)
 - [js](#js)
@@ -57,6 +58,8 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [material-design](#material-design)
+- [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
@@ -116,6 +119,7 @@
 
 ## android 
 
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 
 ## angular 
@@ -316,6 +320,10 @@
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
+## ios 
+
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
+
 ## iot 
 
 - [mainflux/mainflux](https://github.com/mainflux/mainflux) - Industrial IoT Messaging and Device Management Platform
@@ -389,6 +397,14 @@
 ## markdown 
 
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
+
+## material-design 
+
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
+
+## mobile 
+
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 
 ## mongodb 
 
@@ -552,6 +568,7 @@
 
 ## react 
 
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -613,6 +630,7 @@
 
 ## svelte 
 
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [micha-lmxt/svelte-motion](https://github.com/micha-lmxt/svelte-motion) - An animation library for Svelte based on framer-motion.
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit validation and displaying of forms easier than ever!
 - [radix-svelte/radix-svelte](https://github.com/radix-svelte/radix-svelte) - A port of Radix UI for Svelte
@@ -657,6 +675,7 @@
 
 ## vue 
 
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [nuxt/awesome](https://github.com/nuxt/awesome) - A curated list of awesome things related to Nuxt.js
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
