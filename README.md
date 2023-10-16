@@ -57,6 +57,7 @@
 
 ## JavaScript 
 
+- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [HenryLie/svelte-i18n-lingui](https://github.com/HenryLie/svelte-i18n-lingui) - Use lingui for i18n in Svelte/Sveltekit projects
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
