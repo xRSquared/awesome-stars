@@ -489,7 +489,6 @@
 
 ## others 
 
-- [HenryLie/svelte-i18n-lingui](https://github.com/HenryLie/svelte-i18n-lingui) - Use lingui for i18n in Svelte/Sveltekit projects
 - [beynar/svelte-themes](https://github.com/beynar/svelte-themes) - Perfect SvelteKit dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [svelte-drama/swr](https://github.com/svelte-drama/swr) - 
 - [py-why/causaltune](https://github.com/py-why/causaltune) - AutoML for causal inference.
@@ -645,6 +644,7 @@
 
 ## svelte 
 
+- [HenryLie/svelte-i18n-lingui](https://github.com/HenryLie/svelte-i18n-lingui) - Use lingui for i18n in Svelte/Sveltekit projects
 - [jasongitmail/super-sitemap](https://github.com/jasongitmail/super-sitemap) - SvelteKit sitemap focused on ease of use and making it impossible to forget to add your paths.
 - [ankurrsinghal/svelte-legos](https://github.com/ankurrsinghal/svelte-legos) - WIP 🚜 A framework for Svelte Utilities 💡 Current status: 78 utilities.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
