@@ -187,7 +187,7 @@
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
-- [joxji/fisher](https://github.com/joxji/fisher) - A plugin manager for Fish
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [oh-my-fish/theme-cmorrell.com](https://github.com/oh-my-fish/theme-cmorrell.com) - Theme with minimal base prompt, compact git status, and useful visual indicators for common scenarios.
 - [oh-my-fish/theme-es](https://github.com/oh-my-fish/theme-es) - Fish shell theme
 
