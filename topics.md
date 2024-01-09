@@ -300,7 +300,7 @@
 
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
-- [absmach/mainflux](https://github.com/absmach/mainflux) - Industrial IoT Messaging and Device Management Platform
+- [absmach/magistrala](https://github.com/absmach/magistrala) - Industrial IoT Messaging and Device Management Platform
 
 ## hacktoberfest 
 
@@ -338,7 +338,7 @@
 
 ## iot 
 
-- [absmach/mainflux](https://github.com/absmach/mainflux) - Industrial IoT Messaging and Device Management Platform
+- [absmach/magistrala](https://github.com/absmach/magistrala) - Industrial IoT Messaging and Device Management Platform
 
 ## javascript 
 
