@@ -53,7 +53,7 @@
 ## Go 
 
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [absmach/mainflux](https://github.com/absmach/mainflux) - Industrial IoT Messaging and Device Management Platform
+- [absmach/magistrala](https://github.com/absmach/magistrala) - Industrial IoT Messaging and Device Management Platform
 
 ## JavaScript 
 
