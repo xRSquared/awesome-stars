@@ -36,6 +36,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [font](#font)
 - [framework](#framework)
 - [git](#git)
@@ -273,6 +274,10 @@
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
+## flutter-apps 
+
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+
 ## font 
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -495,7 +500,7 @@
 - [btholt/postcss-colorblind](https://github.com/btholt/postcss-colorblind) - A PostCSS plugin for seeing your site as a colorblind person may.
 - [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [bgalbraith/bandits](https://github.com/bgalbraith/bandits) - Python library for Multi-Armed Bandits
-- [fidelity/mab2rec](https://github.com/fidelity/mab2rec) - Mab2Rec: Multi-Armed Bandits Recommender
+- [fidelity/mab2rec](https://github.com/fidelity/mab2rec) - [AAAI 2024] Mab2Rec: Multi-Armed Bandits Recommender
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [xRSquared/challenges](https://github.com/xRSquared/challenges) - Challenges: including fly.io distributed systems challenge
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
@@ -633,7 +638,6 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [oh-my-fish/packages-main](https://github.com/oh-my-fish/packages-main) - Primary Oh My Fish package repository.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 
