@@ -80,7 +80,7 @@
 - [py-why/causaltune](https://github.com/py-why/causaltune) - AutoML for causal inference.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [bgalbraith/bandits](https://github.com/bgalbraith/bandits) - Python library for Multi-Armed Bandits
-- [fidelity/mab2rec](https://github.com/fidelity/mab2rec) - Mab2Rec: Multi-Armed Bandits Recommender
+- [fidelity/mab2rec](https://github.com/fidelity/mab2rec) - [AAAI 2024] Mab2Rec: Multi-Armed Bandits Recommender
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [py-why/EconML](https://github.com/py-why/EconML) - ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goal
 
