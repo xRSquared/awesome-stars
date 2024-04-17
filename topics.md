@@ -512,6 +512,7 @@
 
 ## others 
 
+- [brandonmcconnell/tailwindcss-lerp-colors](https://github.com/brandonmcconnell/tailwindcss-lerp-colors) - Interpolate between defined colors in Tailwind config for additional color stops (e.g. red-425). Built with chroma.js.
 - [xRSquared/minidt](https://github.com/xRSquared/minidt) - 
 - [marko-js/isomorphic-ui-benchmarks](https://github.com/marko-js/isomorphic-ui-benchmarks) - Client/server benchmarks for various UI libraries
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
