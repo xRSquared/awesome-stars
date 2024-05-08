@@ -54,7 +54,6 @@
 - [json](#json)
 - [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
-- [kubernetes](#kubernetes)
 - [language](#language)
 - [library](#library)
 - [low-code](#low-code)
@@ -112,7 +111,6 @@
 ## ai 
 
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Inference Graph/Pipelines, Compound AI systems, Multi-Modal, RAG as a Service, and more!
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 
 ## algorithm 
@@ -381,10 +379,6 @@
 
 - [NannyML/nannyml](https://github.com/NannyML/nannyml) - nannyml: post-deployment data science in python
 
-## kubernetes 
-
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Inference Graph/Pipelines, Compound AI systems, Multi-Modal, RAG as a Service, and more!
-
 ## language 
 
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -585,6 +579,7 @@
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Inference Graph/Pipelines, Compound AI systems, Multi-Modal, RAG as a Service, and more!
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
