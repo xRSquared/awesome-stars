@@ -56,6 +56,7 @@
 - [jupyter-notebook](#jupyter-notebook)
 - [language](#language)
 - [library](#library)
+- [llm](#llm)
 - [low-code](#low-code)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
@@ -386,6 +387,11 @@
 ## library 
 
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
+
+## llm 
+
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Inference Graph/Pipelines, Compound AI systems, Multi-Modal, RAG as a Service, and more!
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 
 ## low-code 
 
