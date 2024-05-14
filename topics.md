@@ -33,6 +33,7 @@
 - [design](#design)
 - [devops](#devops)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [es6](#es6)
 - [eslint](#eslint)
 - [flutter](#flutter)
@@ -262,6 +263,13 @@
 ## documentation 
 
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+
+## dotfiles 
+
+- [whatsthatsmell/dots](https://github.com/whatsthatsmell/dots) - Code Smell Dotfiles
+- [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 
 ## es6 
 
