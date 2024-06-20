@@ -227,7 +227,7 @@
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [jasongitmail/super-sitemap](https://github.com/jasongitmail/super-sitemap) - SvelteKit sitemap focused on ease of use and making it impossible to forget to add your paths.
 - [ankurrsinghal/svelte-legos](https://github.com/ankurrsinghal/svelte-legos) - WIP 🚜 A framework for Svelte Utilities 💡 Current status: 78 utilities.
-- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [beynar/svelte-themes](https://github.com/beynar/svelte-themes) - Perfect SvelteKit dark mode in 2 lines of code. Support System preference and any other theme with no flashing
