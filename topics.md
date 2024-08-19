@@ -100,6 +100,7 @@
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [svelte](#svelte)
+- [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -521,7 +522,6 @@
 ## others 
 
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
-- [brandonmcconnell/tailwindcss-lerp-colors](https://github.com/brandonmcconnell/tailwindcss-lerp-colors) - Interpolate between defined colors in Tailwind config for additional color stops (e.g. red-425). Built with chroma.js.
 - [xRSquared/minidt](https://github.com/xRSquared/minidt) - 
 - [marko-js/isomorphic-ui-benchmarks](https://github.com/marko-js/isomorphic-ui-benchmarks) - Client/server benchmarks for various UI libraries
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
@@ -714,6 +714,13 @@
 - [radix-svelte/radix-svelte](https://github.com/radix-svelte/radix-svelte) - A port of Radix UI for Svelte
 - [maciekgrzybek/svelte-inview](https://github.com/maciekgrzybek/svelte-inview) - A Svelte action that monitors an element enters or leaves the viewport.🔥
 - [dimfeld/svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library
+
+## tailwindcss 
+
+- [brandonmcconnell/tailwindcss-lerp-colors](https://github.com/brandonmcconnell/tailwindcss-lerp-colors) - Interpolate between defined colors in Tailwind config for additional color stops (e.g. red-425). Built with chroma.js.
+- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
 ## tensorflow 
 
