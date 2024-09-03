@@ -139,6 +139,7 @@
 ## api 
 
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+- [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
 
 ## artificial-intelligence 
 
@@ -537,7 +538,6 @@
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [xRSquared/challenges](https://github.com/xRSquared/challenges) - Challenges: including fly.io distributed systems challenge
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
-- [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
 - [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
