@@ -48,6 +48,7 @@
 - [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [icon-font](#icon-font)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [javascript](#javascript)
@@ -348,6 +349,10 @@
 ## icon-font 
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+## instagram 
+
+- [codingstella/projects](https://github.com/codingstella/projects) - Source Code of all projects that I upload on Instagram
 
 ## ios 
 
