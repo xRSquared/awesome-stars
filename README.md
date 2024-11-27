@@ -55,7 +55,7 @@
 ## Go 
 
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [absmach/magistrala](https://github.com/absmach/magistrala) - Industrial IoT Messaging and Device Management Platform
+- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
 
 ## HTML 
 
