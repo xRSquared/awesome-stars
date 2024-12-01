@@ -531,6 +531,7 @@
 
 ## others 
 
+- [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 3.
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [xRSquared/minidt](https://github.com/xRSquared/minidt) - 
