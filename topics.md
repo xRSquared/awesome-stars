@@ -115,7 +115,7 @@
 ## ai 
 
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
+- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
@@ -398,7 +398,7 @@
 
 ## language 
 
-- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
+- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
 
 ## library 
 
@@ -420,7 +420,7 @@
 ## machine-learning 
 
 - [ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet) - NeuralProphet: A simple forecasting package
-- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
+- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
 - [fidelity/mabwiser](https://github.com/fidelity/mabwiser) - [IJAIT 2021] MABWiser: Contextual Multi-Armed Bandits Library
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
 - [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
