@@ -25,7 +25,6 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Starlark](#starlark)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 
@@ -148,6 +147,7 @@
 - [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
+- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [py-why/dowhy](https://github.com/py-why/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical 
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library
@@ -210,10 +210,6 @@
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [oh-my-fish/theme-cmorrell.com](https://github.com/oh-my-fish/theme-cmorrell.com) - Theme with minimal base prompt, compact git status, and useful visual indicators for common scenarios.
 - [oh-my-fish/theme-es](https://github.com/oh-my-fish/theme-es) - Fish shell theme
-
-## Starlark 
-
-- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 
 ## Svelte 
 
