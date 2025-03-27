@@ -37,6 +37,7 @@
 - [dotfiles](#dotfiles)
 - [es6](#es6)
 - [eslint](#eslint)
+- [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
 - [git](#git)
@@ -295,6 +296,10 @@
 ## eslint 
 
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+
+## flutter 
+
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## font 
 
