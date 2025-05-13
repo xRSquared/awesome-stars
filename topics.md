@@ -104,11 +104,13 @@
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [svelte](#svelte)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
 - [typescript](#typescript)
+- [ui](#ui)
 - [vim](#vim)
 - [vue](#vue)
 - [web](#web)
@@ -741,6 +743,10 @@
 - [svelte-inview/svelte-inview](https://github.com/svelte-inview/svelte-inview) - A Svelte action that monitors an element enters or leaves the viewport.🔥
 - [dimfeld/svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library
 
+## tailwind 
+
+- [brandonmcconnell/tailwindcss-lerp-colors](https://github.com/brandonmcconnell/tailwindcss-lerp-colors) - Interpolate between defined colors in Tailwind config for additional color stops (e.g. red-425). Built with chroma.js.
+
 ## tailwindcss 
 
 - [brandonmcconnell/tailwindcss-lerp-colors](https://github.com/brandonmcconnell/tailwindcss-lerp-colors) - Interpolate between defined colors in Tailwind config for additional color stops (e.g. red-425). Built with chroma.js.
@@ -781,6 +787,13 @@
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
+
+## ui 
+
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
+- [radix-svelte/radix-svelte](https://github.com/radix-svelte/radix-svelte) - A port of Radix UI for Svelte
 
 ## vim 
 
