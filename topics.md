@@ -750,11 +750,11 @@
 
 ## tailwind 
 
-- [brandonmcconnell/tailwindcss-lerp-colors](https://github.com/brandonmcconnell/tailwindcss-lerp-colors) - Interpolate between defined colors in Tailwind config for additional color stops (e.g. red-425). Built with chroma.js.
+- [toolwind/lerp-colors](https://github.com/toolwind/lerp-colors) - Interpolate between defined colors in Tailwind config for additional color stops (e.g. red-425). Built with chroma.js.
 
 ## tailwindcss 
 
-- [brandonmcconnell/tailwindcss-lerp-colors](https://github.com/brandonmcconnell/tailwindcss-lerp-colors) - Interpolate between defined colors in Tailwind config for additional color stops (e.g. red-425). Built with chroma.js.
+- [toolwind/lerp-colors](https://github.com/toolwind/lerp-colors) - Interpolate between defined colors in Tailwind config for additional color stops (e.g. red-425). Built with chroma.js.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
