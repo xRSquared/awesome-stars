@@ -119,6 +119,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -846,6 +847,13 @@
 
 - [codingstella/projects](https://github.com/codingstella/projects) - Source Code of all projects that I upload on Instagram
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
+
+## zsh 
+
+- [bellini666/dotfiles](https://github.com/bellini666/dotfiles) - My dotfiles
+- [whatsthatsmell/dots](https://github.com/whatsthatsmell/dots) - Code Smell Dotfiles
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 
 
 ## License
