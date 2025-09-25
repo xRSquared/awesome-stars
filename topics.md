@@ -18,6 +18,7 @@
 - [c](#c)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [code-review](#code-review)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -196,6 +197,10 @@
 ## clojure 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+
+## cloud 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## code-review 
 
