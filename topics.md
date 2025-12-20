@@ -332,6 +332,7 @@
 
 ## dotfiles 
 
+- [bellini666/dotfiles](https://github.com/bellini666/dotfiles) - My dotfiles
 - [whatsthatsmell/dots](https://github.com/whatsthatsmell/dots) - Code Smell Dotfiles
 - [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -543,6 +544,7 @@
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) - improve neovim lsp experience
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+- [bellini666/dotfiles](https://github.com/bellini666/dotfiles) - My dotfiles
 - [whatsthatsmell/dots](https://github.com/whatsthatsmell/dots) - Code Smell Dotfiles
 - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
