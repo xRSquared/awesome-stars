@@ -73,6 +73,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -514,6 +515,10 @@
 ## material-design 
 
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
+
+## mcp 
+
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - MCP is the protocol for tool access. We're the virtualization layer for context.
 
 ## mobile 
 
