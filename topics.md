@@ -40,6 +40,7 @@
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
+- [distributed-systems](#distributed-systems)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [es6](#es6)
@@ -326,6 +327,10 @@
 ## devops 
 
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
+
+## distributed-systems 
+
+- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
 
 ## documentation 
 
