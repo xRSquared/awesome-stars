@@ -55,7 +55,7 @@
 ## Go 
 
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
+- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
 
 ## HTML 
 
