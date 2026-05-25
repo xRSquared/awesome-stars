@@ -640,7 +640,7 @@
 - [svelte-drama/swr](https://github.com/svelte-drama/swr) - 
 - [py-why/causaltune](https://github.com/py-why/causaltune) - AutoML for causal inference.
 - [btholt/postcss-colorblind](https://github.com/btholt/postcss-colorblind) - A PostCSS plugin for seeing your site as a colorblind person may.
-- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - a GPU powered yet browserless tool to view markdown files in the blink of an eye
 - [bgalbraith/bandits](https://github.com/bgalbraith/bandits) - Python library for Multi-Armed Bandits
 - [fidelity/mab2rec](https://github.com/fidelity/mab2rec) - [AAAI 2024] Mab2Rec: Multi-Armed Bandits Recommender
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
