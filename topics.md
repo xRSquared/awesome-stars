@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -134,6 +135,10 @@
 - [webpack](#webpack)
 - [website](#website)
 - [zsh](#zsh)
+
+## agent-skills 
+
+- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 
 ## agents 
 
