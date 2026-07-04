@@ -21,6 +21,7 @@
 - [bash](#bash)
 - [c](#c)
 - [chatgpt](#chatgpt)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -222,6 +223,10 @@
 ## chatgpt 
 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+
+## claude 
+
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 
 ## claude-code 
 
