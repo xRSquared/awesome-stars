@@ -27,6 +27,7 @@
 - [clojure](#clojure)
 - [cloud](#cloud)
 - [code-review](#code-review)
+- [coding](#coding)
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -148,7 +149,7 @@
 
 ## ai 
 
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LI
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work—from Coding to Creativity.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [sktime/sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
@@ -252,6 +253,10 @@
 ## code-review 
 
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+
+## coding 
+
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work—from Coding to Creativity.
 
 ## command-line 
 
@@ -703,7 +708,7 @@
 
 ## productivity 
 
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LI
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work—from Coding to Creativity.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 
 ## programming 
