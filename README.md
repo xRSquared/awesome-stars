@@ -222,7 +222,7 @@
 
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ The Life Operating System — an intent engineering platform that moves you from your current state to your ideal state, in life and work.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [nandorojo/moti](https://github.com/nandorojo/moti) - 🐼  The React Native (+ Web) animation library, powered by Reanimated 3.
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
